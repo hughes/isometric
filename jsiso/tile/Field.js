@@ -19,9 +19,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE. */
 
 define([
-  'jsiso/particles/EffectLoader',
-  'jsiso/particles/Emitter',
-  'jsiso/utils'
+  'particles/EffectLoader',
+  'particles/Emitter',
+  'utils'
 ],
 
 function(EffectLoader, Emitter, utils) {

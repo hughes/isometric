@@ -1,3 +1,7 @@
 requirejs.config({
-    baseUrl: "/isometric/"
+    baseUrl: "jsiso",
+    paths: {
+      canvasControl: 'canvas/Control',
+      canvasInput: 'canvas/Input',
+    }
 });
